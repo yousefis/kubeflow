@@ -2,7 +2,7 @@
 
 Make sure your config is set to the project -
 
-`gcloud config set project [PROJECT_ID]`
+    gcloud config set project [PROJECT_ID]
 
 Run a checklist of the Clusters in the account:
 gcloud container clusters list
